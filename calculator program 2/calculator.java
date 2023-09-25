@@ -22,7 +22,7 @@ public class MainActivity extends AppCompatActivity {
         t1=(TextView) findViewById(R.id.tv1);
         e1=(EditText) findViewById(R.id.et1);
         t2=(TextView) findViewById(R.id.tv2);
-        e2=(EditText) findViewById(R.id.et1);
+        e2=(EditText) findViewById(R.id.et2);
         bt1=(Button) findViewById(R.id.b1);
         bt2=(Button) findViewById(R.id.b2);
         bt3=(Button) findViewById(R.id.b3);
